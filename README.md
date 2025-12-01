@@ -14,18 +14,6 @@ Perfect for:
 * Marketing prep
 * Automated document generation
 
----
-
-## 📁 Project Structure
-
-```
-📦 AI Brochure Generator
-├── scraper.py           # Extracts clean text & links from a website
-└── project_1.ipynb      # Main notebook: calls LLM API + builds brochure
-```
-
----
-
 ## 🚀 What This Project Does
 
 ### ✅ 1. **Extracts Website Content**
